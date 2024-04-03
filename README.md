@@ -1,6 +1,6 @@
 ## Interactive Dashboard
 
-[Citi Bike Tableau](https://public.tableau.com/app/profile/mustafa.ayter/viz/module18-tableau)/CityBikeAnalysis)
+[Citi Bike Tableau](https://public.tableau.com/app/profile/mustafa.ayter/viz/module18-tableau)
 
 ## Highlights
 - When examining station data and maps, we notice that popular stations have larger circles. These circles represent frequent starting and ending points for riders.
