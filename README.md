@@ -40,8 +40,8 @@ To boost membership and ride usage, the city can:
 * Examine bike utilization further, especially the bike with ID 15259, which stands out in terms of usage.
 
 ### Tools Used
-Tableau Public
-Data cleaning and preprocessing tools (e.g., Python, Excel)
+* Tableau Public
+* Data cleaning and preprocessing tools (e.g., Python, Excel)
 
 ### How to View the Project
 
