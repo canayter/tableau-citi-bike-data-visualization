@@ -51,4 +51,5 @@ Data cleaning and preprocessing tools (e.g., Python, Excel)
 
 ### About the Author
 Can "Jon" Ayter - Data Analyst passionate about uncovering insights from complex datasets and creating impactful visualizations.
+
 [LinkedIn Profile](https://www.linkedin.com/in/canayter/)
